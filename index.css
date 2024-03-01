@@ -758,7 +758,7 @@
   flex-direction: column;
   background-color: var(--dl-color-gray-900);
 }
-.home-preise {
+.home-sortiment {
   width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxcontent);
@@ -1068,7 +1068,7 @@
   .home-text18 {
     text-align: center;
   }
-  .home-preise {
+  .home-sortiment {
     padding-top: var(--dl-space-space-fiveunits);
     padding-bottom: var(--dl-space-space-fiveunits);
   }
